@@ -32,7 +32,8 @@
 - Date: 2026-07-11
 - Data mode: public-web
 - Execution host: local
-- Publisher: ready for publish_public after final GitHub duplicate gate
+- Publisher: https://github.com/tangweigang-jpg/doramagic-sverklo-pack
+- Public repository verification: PASS; homepage, README.md, SOURCE_MAP.md, and TEST_LOG.md are readable on main
 
 ### Evidence
 
